@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a9c2d2af-63c5-43b8-9a96-61ba47de71b2.ws-us02.gitpod.io",
+    "address": "https://fcab5276-b400-4546-b711-c79f38c26c27.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -200,7 +200,7 @@
         {
             "slug": "07.2-Letter-Counter",
             "title": "07.2-Letter-Counter",
-            "done": false,
+            "done": true,
             "path": "exercises/07.2-Letter-Counter",
             "translations": [
                 "es",
@@ -222,7 +222,7 @@
         {
             "slug": "08.1-Mixed-array",
             "title": "08.1-Mixed-array",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Mixed-array",
             "translations": [
                 "es",
@@ -420,7 +420,7 @@
         {
             "slug": "20.5-Map-arrays-of-objects",
             "title": "20.5-Map-arrays-of-objects",
-            "done": false,
+            "done": true,
             "path": "exercises/20.5-Map-arrays-of-objects",
             "translations": [
                 "es",
@@ -497,7 +497,7 @@
         {
             "slug": "25-Techno-beat",
             "title": "25-Techno-beat",
-            "done": false,
+            "done": true,
             "path": "exercises/25-Techno-beat",
             "translations": [
                 "es",

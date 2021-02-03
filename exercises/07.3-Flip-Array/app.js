@@ -7,3 +7,7 @@ for(let i = arr.length - 1; i>= 0;i--){
     flippedArray.push(item);
 }
 console.log(flippedArray)
+
+//Simple Solution
+// var reversed = arr.reverse();
+// console.log(reversed);

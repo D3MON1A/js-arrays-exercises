@@ -3,9 +3,7 @@ let counts = {};
 // your code here
 par= par.toLowerCase();
 
-
 for (let i=0; i < par.length ; i++) {
-
     if (par[i] in counts){
         counts[par[i]] = counts[par[i]] +1;
     
@@ -16,13 +14,7 @@ for (let i=0; i < par.length ; i++) {
     }else {
         counts[par[i]] = 1;
     }
-
-
-
 }
-
-
-
 console.log(counts);
 
 // for(let i in par){
